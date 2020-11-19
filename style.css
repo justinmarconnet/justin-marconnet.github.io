@@ -5,7 +5,7 @@ html, body {
     /* Interligne (multiple de la taille du texte) */
     line-height: 1.2;
     /* Coller ici les indications de fontes fournies par Google Fonts */
-    font-family: 'Roboto Mono', monospace;
+    font-family: 'Cinzel', monospace;
     /* Couleur de fond si vous avez supprimé le caroussel d'images */
     background: #f5f5f5;
 }
