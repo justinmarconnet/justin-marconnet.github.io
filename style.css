@@ -1,9 +1,9 @@
 html, body {
     margin: 0;
     /* Taille du texte */
-    font-size: 25px;
+    font-size: 22px;
     /* Interligne (multiple de la taille du texte) */
-    line-height: 1,5;
+    line-height: 0,8;
     /* Coller ici les indications de fontes fournies par Google Fonts */
     font-family: 'Cinzel', monospace;
     /* Couleur de fond si vous avez supprimé le caroussel d'images */
@@ -62,7 +62,7 @@ a {
 
 a img {
     /* Largeur du picto lien */
-    width: 32px;
+    width: 35px;
     height: auto;
     position: relative;
     /* Décalage par rapport au haut de la ligne */
