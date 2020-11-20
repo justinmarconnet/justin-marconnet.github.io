@@ -1,7 +1,7 @@
 html, body {
     margin: 0;
     /* Taille du texte */
-    font-size: 50px;
+    font-size: 30px;
     /* Interligne (multiple de la taille du texte) */
     line-height: 2;
     /* Coller ici les indications de fontes fournies par Google Fonts */
@@ -57,12 +57,12 @@ main.slides {
 a {
     color: white;
     /* Soulignement : mettre "none" pour désactiver, "underline" pour souligner */
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 a img {
     /* Largeur du picto lien */
-    width: 24px;
+    width: 30px;
     height: auto;
     position: relative;
     /* Décalage par rapport au haut de la ligne */
