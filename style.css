@@ -1,11 +1,11 @@
 html, body {
     margin: 0;
     /* Taille du texte */
-    font-size: 20px;
+    font-size: 23px;
     /* Interligne (multiple de la taille du texte) */
     line-height: 0,5;
     /* Coller ici les indications de fontes fournies par Google Fonts */
-    font-family: 'Cinzel', monospace;
+    font-family: 'Cormorant Garamond', serif;
     /* Couleur de fond si vous avez supprimé le caroussel d'images */
     background: #f5f5f5;
 }
