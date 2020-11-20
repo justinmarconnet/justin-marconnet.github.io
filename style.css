@@ -1,9 +1,9 @@
 html, body {
     margin: 0;
     /* Taille du texte */
-    font-size: 22px;
+    font-size: 20px;
     /* Interligne (multiple de la taille du texte) */
-    line-height: 0,8;
+    line-height: 0,5;
     /* Coller ici les indications de fontes fournies par Google Fonts */
     font-family: 'Cinzel', monospace;
     /* Couleur de fond si vous avez supprimé le caroussel d'images */
