@@ -5,7 +5,7 @@ html, body {
     /* Interligne (multiple de la taille du texte) */
     line-height: 0,5;
     /* Coller ici les indications de fontes fournies par Google Fonts */
-    font-family: 'Cormorant Garamond', serif;
+    font-family: 'Quicksand', sans-serif;
     /* Couleur de fond si vous avez supprimé le caroussel d'images */
     background: #f5f5f5;
 }
