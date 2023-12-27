@@ -7,7 +7,7 @@ html, body {
     /* Coller ici les indications de fontes fournies par Google Fonts */
     font-family: 'Quicksand', sans-serif;
     /* Couleur de fond si vous avez supprimé le caroussel d'images */
-    background: #f5f5f5;
+    background: white;
 }
 
 @media screen and (max-width: 767px) {
@@ -57,7 +57,7 @@ main.slides {
 a {
     color: black;
     /* Soulignement : mettre "none" pour désactiver, "underline" pour souligner */
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 a img {
